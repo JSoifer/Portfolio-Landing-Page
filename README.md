@@ -10,7 +10,7 @@ _I am Julianne Soifer, and this is a portfolio of my work since I have started l
 
 ## Setup/Installation Requirements
 
-* _open with any browser_
+* _clone and open with any browser_
 * _enjoy!_
 
 
@@ -30,6 +30,6 @@ _HTML, CSS, and Bootstrap were used in the creation of this page.  I really like
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*licensed under the MIT license*
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2015 **_Julianne Soifer_**
