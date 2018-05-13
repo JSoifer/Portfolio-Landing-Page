@@ -1,3 +1,10 @@
+body {
+  background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+
+
+
 #heading-img {
   width: 60%;
   border-radius: 50%;
@@ -19,7 +26,7 @@
 
 h1 {
   text-align: center;
-  font-size: 27;
+  font-size: 32;
 }
 .row {
   margin-top: 50px;
@@ -27,8 +34,11 @@ h1 {
 .name {
   border-top: solid;
   border-bottom: solid;
-  border-color: red;
+  border-color: darkblue;
   border-width: thick;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+.panel-content {
+  padding: 20px;
 }
